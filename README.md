@@ -1,5 +1,5 @@
 # vital_sense
-The project "Vital Sense" introduces a comprehensive health monitoring system that utilises Arduino technology to collect and display a range of vital health parameters. 
+The project "Vital Sense" introduces a comprehensive health diagnosis system that utilises Arduino technology to collect and display a range of vital health parameters. 
 The system is designed to measure and analyse ECG, PPG, body temperature, heart rate, and stress levels in real-time.
 The objective of this project is to design and implement an advanced E- Healthcare System that utilizes Arduino-based technology and multiple sensors.
 Consisting ECG (Electrocardiogram), PPG (Photoplethysmogram), temperature, and stress level measurements for Person’s Condition.
